@@ -1,0 +1,29 @@
+ body{
+  background-color: skyblue;
+
+ }
+ img{ 
+  height: 320px;width: 1100;
+ }
+ h1{font-weight: bolder;
+
+ }
+ h3{font-weight: bolder;
+ }
+  h3{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 25px;
+  }
+  h3{display: list-item;
+  }
+  ul{border-style: dotted;
+  }
+  h1{padding-left: 450px;
+  }
+  
+
+
+
+
+
+
+
